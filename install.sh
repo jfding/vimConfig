@@ -18,7 +18,7 @@
 app_name='vimConfig'
 [ -z "$APP_PATH" ] && APP_PATH="$HOME/.vimConfig"
 [ -z "$REPO_URI" ] && REPO_URI='https://github.com/abdalrohman/vimConfig.git'
-[ -z "$REPO_BRANCH" ] && REPO_BRANCH='vimConfig'
+[ -z "$REPO_BRANCH" ] && REPO_BRANCH='master'
 debug_mode='1'
 fork_maintainer='0'
 [ -z "$PLUG_URI" ] && PLUG_URI="https://github.com/junegunn/vim-plug.git"
