@@ -16,7 +16,7 @@
 
 ############################  SETUP PARAMETERS
 app_name='vimConfig'
-[ -z "$APP_PATH" ] && APP_PATH="$HOME/.vimConfig"
+[ -z "$APP_PATH" ] && APP_PATH="$HOME/.vimConfig-3"
 [ -z "$REPO_URI" ] && REPO_URI='https://github.com/abdalrohman/vimConfig.git'
 [ -z "$REPO_BRANCH" ] && REPO_BRANCH='master'
 debug_mode='1'
